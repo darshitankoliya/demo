@@ -1,0 +1,62 @@
+{
+  "Phone": [
+    {
+      "id": 1,
+      "image":"assets/images/img1.jpg",
+      "name": "Mi note 4",
+      "price": 80000
+    },
+    {
+      "id": 2,
+      "image":"assets/images/img2.jpg",
+      "name": "Tecno",
+      "price": 10000
+    },
+    {
+      "id": 3,
+      "image":"assets/images/img3.jpg",
+      "name": "Vivo v9",
+      "price": 21000
+    }
+  ],
+  "Laptops": [
+    {
+      "id": 1,
+      "image":"assets/images/img4.jpg",
+      "name": "lanovo",
+      "price": 350000
+    },
+    {
+      "id": 1,
+      "image":"assets/images/img5.jpg",
+      "name": "dell",
+      "price": 25000
+    },
+    {
+      "id": 1,
+      "image":"assets/images/img1.jpg",
+      "name": "HP",
+      "price": 40000
+    }
+  ],
+  "Tablet": [
+    {
+      "id": 1,
+      "image":"assets/images/img2.jpg",
+      "name": "Samsung",
+      "price": 15000
+    },
+    {
+      "id": 1,
+      "image":"assets/images/img3.jpg",
+      "name": "samsung Galaxy Tab 1",
+      "price": 18000
+    },
+    {
+      "id": 1,
+      "image":"assets/images/img4.jpg",
+      "name": "lenovo",
+      "price": 80000
+    }
+  ]
+}

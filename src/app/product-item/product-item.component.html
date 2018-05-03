@@ -1,0 +1,25 @@
+<h2>Employee Deteli</h2>
+
+<h3> You selected department with Id = {{ProductId}}</h3>
+
+<p>
+
+    <button (click)="onOverview()">Overview</button>
+    <button (click)="onContact()">Contact</button>
+
+</p>
+
+<router-outlet></router-outlet>
+
+<p>
+
+    <button (click)="goPrevious()">Previous</button>
+    <button (click)="goNext()"> Next </button>
+
+</p>
+
+<div>
+
+    <button (click)="goBack()">Back</button>
+
+</div>

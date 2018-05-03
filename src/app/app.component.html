@@ -1,0 +1,31 @@
+ <!-- <app-product [data]="Product.Phone" [title]="'Phone'">
+</app-product>
+<app-product [data]="Product.Laptops" [title]="'Laptops'">
+</app-product>
+<app-product [data]="Product.Tablet" [title]="'Tablet'">
+</app-product>   -->
+
+<!-- <div style=" text-align:center">
+    <h1>
+        Balmukund Febarikeshan...
+    </h1>
+</div>
+
+<nav>
+    <button routerLink="/product" routerLinkActive="active" > Product  </button>
+    <button routerLink="/List" routerLinkActive="active" > Employee List </button>
+    <button routerLink="/employee" routerLinkActive="active" > Item </button>
+
+</nav> -->
+<h1>{{title}}</h1>
+<nav>
+  <a routerLink="/dashboard">Dashboard</a>
+  <a routerLink="/heroes">Heroes</a>
+</nav>
+<app-heroes></app-heroes>
+<app-messages></app-messages>
+
+
+
+<router-outlet></router-outlet>
+<!-- Routed views go here  -->

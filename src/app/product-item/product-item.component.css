@@ -1,0 +1,7 @@
+
+.product-item{
+    display: flex;flex-direction: column;align-items: center
+}
+.product-item:hover{
+    border:1px solid #ccc;
+}
